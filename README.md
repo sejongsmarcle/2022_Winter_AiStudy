@@ -24,9 +24,8 @@
   - 모든 인원이 pre-class quiz를 풀면 발표 팀이 발표 시작
   - 질의 응답
   - 실습 진행
-  - 다른 팀의 실습 리뷰
 3. 스터디 종료 후
-  - smarcle 깃허브에 실습 코드 제출
+  - smarcle 깃허브에 실습 코드 제출(자율)
 ```
 
 - 8회차 후 4개의 분야(CNN, NLP, RNN, GAN) 중 관심있는 분야를 선택, 팀을 섞음
@@ -71,3 +70,4 @@
 - [모두의 딥러닝 개정 2판](https://thebook.io/080228/)
 - [지능기전공학부 3학년 전공필수 수업 **인공지능** 수업자료](https://github.com/sejongresearch/2020.Spring.AI)
 - [모두를 위한 딥러닝 시즌1](https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+- [K-MOOC 파이썬으로 배우는 기계학습 입문](http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2021_T2/course/)
