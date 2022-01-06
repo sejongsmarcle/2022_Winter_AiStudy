@@ -41,7 +41,7 @@
 
 | 회차 | 날짜 | 팀 |내용 | 다시보기 |
 | --- | --- | --- | --- | --- |
-| 0 | 01.06.(목)	 |x| OT 및 가이드 | [Teams O.T](https://youtube.com/playlist?list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f) |
+| 0 | 01.06.(목)	 |x| OT 및 가이드 | [Teams O.T](https://www.youtube.com/watch?v=U7_4oL4c_Wo&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=1) |
 | 1 | 01.10.(월) |1팀 |3장 선형회귀 |  |
 | 2 | 01.13.(목) |2팀 |4장 경사하강법 |  |
 | 3 | 01.17.(월) |3팀 |5장 로지스틱 회귀 |  |
