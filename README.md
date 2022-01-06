@@ -39,7 +39,7 @@
 - 대략 1부에 1시간 정도
 
 
-| 회차 | 날짜 | 팀 |내용 | 다시보기 |
+| 회차 | 날짜 | 팀 |내용, 발표 자료 | 다시보기 |
 | --- | --- | --- | --- | --- |
 | 0 | 01.06.(목)	 |x| OT 및 가이드 | [Teams O.T](https://www.youtube.com/watch?v=U7_4oL4c_Wo&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=1) |
 | 1 | 01.10.(월) |1팀 |3장 선형회귀 |  |
