@@ -65,7 +65,7 @@
 |  |  |21 김수환| 21 유혁재|
 
 ### 참고
-- [20201 Winter AI study](https://github.com/sejongsmarcle/2021_Winter_AiStudy)
+- [2021 Winter AI study](https://github.com/sejongsmarcle/2021_Winter_AiStudy)
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 - [점프투파이썬](https://wikidocs.net/book/1)
 - [모두의 딥러닝 개정 2판](https://thebook.io/080228/)
