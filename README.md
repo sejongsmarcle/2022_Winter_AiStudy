@@ -42,7 +42,7 @@
 | 회차 | 날짜 | 팀 |내용, 발표 자료 | 다시보기 |
 | --- | --- | --- | --- | --- |
 | 0 | 01.06.(목)	 |x| [OT 및 가이드](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%ED%9A%8C%EC%B0%A8) | [O.T](https://www.youtube.com/watch?v=U7_4oL4c_Wo&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=1) |
-| 1 | 01.10.(월) |1팀 |3장 선형회귀 | [class1](https://youtu.be/x7U4pfNdtgc) |
+| 1 | 01.10.(월) |1팀 |[3장 선형회귀](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8) | [class1](https://youtu.be/x7U4pfNdtgc) |
 | 2 | 01.13.(목) |2팀 |4장 경사하강법 |  |
 | 3 | 01.17.(월) |3팀 |5장 로지스틱 회귀 |  |
 | 4 | 01.20.(목) |4팀|6~9장 퍼셉트론과 역전파 |  |
