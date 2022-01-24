@@ -46,7 +46,7 @@
 | 2 | 01.13.(목) |2팀 |[4장 경사하강법](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8) | [class 2](https://www.youtube.com/watch?v=9WpuawbmvO8&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=3) |
 | 3 | 01.17.(월) |3팀 |[5장 로지스틱 회귀](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8) | [class 3](https://www.youtube.com/watch?v=_No1IL5cyKI) |
 | 4 | 01.20.(목) |4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8) | [class 4](https://www.youtube.com/watch?v=aY8Ww_b5LGk) |
-| 5 | 01.24.(월) |1팀, 3팀 |10~12장 모델설계와 품종예측 |  |
+| 5 | 01.24.(월) |1팀, 3팀 |[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8) | [class 5](https://www.youtube.com/watch?v=c69__qo-GtY) |
 | 6 | 01.27.(목) |2팀, 4팀 |13장~14장 과적합과 베스트모델 |  |
 | 7 | 02.07.(월) |모두 |선형 회귀 관련 캐글 실습1 |  |
 | 8 | 02.10.(목) |모두 |선형 회귀 관련 캐글 실습2 |  |
