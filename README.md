@@ -48,8 +48,8 @@
 | 4 | 01.20.(목) |4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8) | [class 4](https://www.youtube.com/watch?v=aY8Ww_b5LGk) |
 | 5 | 01.24.(월) |1팀, 3팀 |[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8) | [class 5](https://www.youtube.com/watch?v=c69__qo-GtY) |
 | 6 | 01.27.(목) |2팀, 4팀 | [13장~14장 과적합과 베스트모델](https://github.com/sejongsmarcle/2022_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8) | [class 6](https://www.youtube.com/watch?v=owKtqqA0o2Q&list=PLvRUlpIVi9qRoI7iXBLd4zkSkhMPCMz3f&index=8)  |
-| 7 | 02.07.(월) |1팀, 3팀 |선형 회귀 관련 캐글 실습1 |  |
-| 8 | 02.10.(목) |2팀, 4팀 |선형 회귀 관련 캐글 실습2 |  |
+| 7 | 02.07.(월) |1팀, 3팀 | 캐글 실습1 |  |
+| 8 | 02.10.(목) |2팀, 4팀 | 캐글 실습2 |  |
 | 9 | 02.14.(월) |CNN팀 |16장 CNN 팀 발표 |  |
 | 10 | 02.17.(목) |NLP팀 |17장 NLP 팀 발표 |  |
 | 11 | 02.21.(월) | RNN팀|18장 RNN 팀 발표 |  |
