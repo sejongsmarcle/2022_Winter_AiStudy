@@ -54,7 +54,7 @@
 | 10 | 02.17.(목) |NLP팀 |17장 NLP 팀 발표 |  |
 | 11 | 02.21.(월) | RNN팀|18장 RNN 팀 발표 |  |
 | 12 | 02.24.(목) | GAN팀|19장 GAN 팀 발표 |  |
-| 13 | 02.28.(월) | |스터디 리뷰 및 외부 초청 걍연 [Speaker](https://sites.google.com/view/seung-hyun-lee/%ED%99%88) |  |
+| 13 | 02.28.(월) | [Speaker](https://sites.google.com/view/seung-hyun-lee/%ED%99%88) |스터디 리뷰 및 외부 초청 걍연  |  |
 
 ## 팀
 | 1팀 | 2팀 | 3팀 | 4팀 |
