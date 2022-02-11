@@ -1,0 +1,3 @@
+- [질문지](https://docs.google.com/forms/d/e/1FAIpQLSejRy4hmKSEGF-HshyzStiVGyY3iD5FvxSaG36G_BuwZ_stKA/viewform)
+- [통계](https://docs.google.com/forms/d/e/1FAIpQLSejRy4hmKSEGF-HshyzStiVGyY3iD5FvxSaG36G_BuwZ_stKA/viewanalytics)
+- 정답: 1, 3, 4, 5, 4, 4
