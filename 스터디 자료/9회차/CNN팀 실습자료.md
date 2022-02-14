@@ -1,0 +1,1 @@
+- [실습자료](https://www.kaggle.com/mirhyun0508/2022-smarcle-ai-fashion-mnist-cnn)
