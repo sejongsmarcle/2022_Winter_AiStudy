@@ -1,0 +1,1 @@
+- [kaggle](https://www.kaggle.com/leeyongbin/smarcle-ai-study-fasionmnist-csv-cnn)
